@@ -5,7 +5,7 @@ class green1 extends Component {
   render(){
 	  
     return (
-      <div className='FranklyModulesDemo'>
+      <div className='two'>
 	      <h2 className='demo_text'>green: {this.props.text}</h2>
       </div>
     );

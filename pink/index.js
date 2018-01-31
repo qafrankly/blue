@@ -1,16 +1,16 @@
 import React, { Component, PropTypes } from 'react';
 
-class MultiDemo13 extends Component {
+class pink1 extends Component {
 	
   render(){
 	  
     return (
       <div className='FranklyThirdModulesDemo'>
-	      <h2 className='demo_text'>nad3: {this.props.text}</h2>
+	      <h2 className='demo_text'>pink: {this.props.text}</h2>
       </div>
     );
 	  
   }
 }
 
-export default MultiDemo13;
+export default pink1;
